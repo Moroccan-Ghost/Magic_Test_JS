@@ -13,4 +13,8 @@ with N is 0.1 OR 1 OR 10 OR 1000 ...
     <li> And before finishing we need to do a simple formatting to the VALUE to get only the first part we need
 for exmple : in 11.4 we want only to get 10 so that after INC for exmpl we will get 20 as a result, thats why we will DIV or MULTIP by the variable i depending on the situations below :) and thats all xD
     </li>
+    <li>
+        This is the long coding way to get the solution, the shortest way with a simple and short code is the one with PHP
+    </li>
 </ul>
+ 
